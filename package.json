@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/darleikroth/fetch-test#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
